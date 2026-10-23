@@ -1,7 +1,13 @@
 # Aviv Bryger
 
-M.Sc. in Chemistry (Technion): electrochemistry and materials characterization.
+Materials scientist and electrochemist from the Technion: B.Sc. in Materials Science and Chemistry, M.Sc. in Chemistry (electrocatalysis).
 Building tools that make labs more autonomous and everyday life a bit easier.
+
+## What I'm interested in
+
+- **Closing the loop in the lab**: from raw instrument files to clean data to a decision about the next experiment.
+- **Electrochemistry and materials for energy**: electrocatalysts, electrolysis, characterization (XRD, TGA, electrochemical methods).
+- **Tools that other researchers actually use**: simple interfaces on top of solid data processing.
 
 ## Lab tools
 
