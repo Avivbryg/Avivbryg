@@ -1,4 +1,4 @@
-# Aviv Briger
+# Aviv Bryger
 
 M.Sc. in Chemistry (Technion): electrochemistry and materials characterization.
 Building tools that make labs more autonomous and everyday life a bit easier.
